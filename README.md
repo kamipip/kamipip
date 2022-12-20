@@ -1,2 +1,2 @@
 ### Olá, mundo! 👋
-Bem-vindos ao meu perfil do github 😊
+Bem-vindos ao meu perfil no github 😊
